@@ -1,8 +1,8 @@
 ## Hello GitHub Fans 👋
 [![Mail Badge](https://img.shields.io/badge/-IhaveBB@outlook.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:IhaveBB@outlook.com)](mailto:joeysiwei@gmail.com)
 ---
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IhaveBB)](https://github.com/anuraghazra/github-readme-stats)
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 ### I'm Liu
 
 - A Computer Engineering Undergraduate Student. & Open Source enthusiast.
