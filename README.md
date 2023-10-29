@@ -1,6 +1,6 @@
 ## Hello GitHub Fans 👋
 [![Mail Badge](https://img.shields.io/badge/-IhaveBB@outlook.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:IhaveBB@outlook.com)](mailto:ihavebb@outlook.com)
-[![Mail Badge](https://img.shields.io/badge/-IhaveBB@outlook.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:i@nicebao.com)](mailto:i@nicebao.com)
+[![Mail Badge](https://img.shields.io/badge/-i@nicebao.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:i@nicebao.com)](mailto:i@nicebao.com)
 
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IhaveBB)](https://github.com/anuraghazra/github-readme-stats)
