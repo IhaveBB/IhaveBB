@@ -1,19 +1,12 @@
-## Hello GitHub Fans 👋
-[![Mail Badge](https://img.shields.io/badge/-IhaveBB@outlook.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:IhaveBB@outlook.com)](mailto:ihavebb@outlook.com)
-[![Mail Badge](https://img.shields.io/badge/-i@nicebao.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:i@nicebao.com)](mailto:i@nicebao.com)
+## Hello GitHub Fans 👋 I'm IhaveBB
 
----
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IhaveBB)](https://github.com/anuraghazra/github-readme-stats)
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
-### I'm Liu
+嗨！我是IhaveBB，来自天津市，现在就读于内蒙古农业大学计算机学院。
+我的MBTI标签是ISTJ——沉着冷静，脚踏实地。
+我最爱的名言，愿其如同一盏明灯，照亮你我前行的道路：
+> “人生就像骑自行车，要保持平衡就得往前走。”
+> —— 阿尔伯特·爱因斯坦
 
-- A Computer Engineering Undergraduate Student. & Open Source enthusiast.
-- 🌱 Currently enrolled in school.
-- 💬 
-- ⭐ 
-- ⚡ Fun fact: Data Analysis📊
-
-### 🛠 技术栈 | Tech Stack
+## 🛠 技术栈
 
 - 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
@@ -27,8 +20,17 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
+## 📝 与我同行 📝
+欢迎您通过以下方式与我进行交流。
+[![Mail Badge](https://img.shields.io/badge/-IhaveBB@outlook.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:IhaveBB@outlook.com)](mailto:ihavebb@outlook.com)
 
+## 🎖️ 社区印记 🎖️
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IhaveBB)](https://github.com/anuraghazra/github-readme-stats)
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
-> ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
-
-⭐️ From [JoeyBling](https://github.com/JoeyBling)
+## 📚 推荐书单 📚
+- *《把时间当做朋友》* - 李笑来
+- *《相信》* - 蔡磊
+- *《活着》* - 余华
+- *《长安的荔枝》* - 马伯庸
+- *《被讨厌的勇气》* - 岸见一郎 
